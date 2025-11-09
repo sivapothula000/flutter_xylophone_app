@@ -12,5 +12,5 @@ A colorful Flutter xylophone app that plays musical notes with smooth gradient U
 - Flutter
 - Dart
 - audioplayers
-
-💡 Created with ❤️ by [Your Name]
+  
+💡 Created with ❤️ by Pothula Siva Anand
