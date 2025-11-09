@@ -1,17 +1,16 @@
-# xylophone
+# 🎵 My XyloTunes - Flutter App
 
-A new Flutter project.
+A colorful Flutter xylophone app that plays musical notes with smooth gradient UI and vibration feedback.
 
-## Getting Started
+## 🚀 Features
+- 7 musical keys with unique colors
+- Gradient background
+- Vibration feedback
+- Uses audioplayers package
 
-This project is a starting point for a Flutter application.
+## 🧰 Built With
+- Flutter
+- Dart
+- audioplayers
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter_xylophone_app" 
+💡 Created with ❤️ by [Your Name]
